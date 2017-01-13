@@ -1,0 +1,162 @@
+/*******************
+GENERAL
+********************/
+body {
+  font-family: ,;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.clear {
+  clear: both;
+}
+
+a {
+  text-decoration: none; 
+}
+
+img {
+  max-width: 100%;
+  width: 100%;
+}
+
+h3 {
+  margin: 0 0 1em 0;
+  font-family: '', ;
+  
+}
+h2{
+  font-family: '',;
+
+}
+h4{
+  font-family: '',;
+}
+h1{
+font-family: '',;
+
+}
+h5{
+ font-family: '', ; 
+}
+/******************* Top Bar ********************/
+.top-bar {
+  padding: 25px 5%;
+  background-color:#000000 ;
+  color: #fff
+}
+
+/******************* Header & Navigation ********************/
+header {
+  padding:250px 0;
+  background: url(../img/header-12.jpg) no-repeat center center;
+  background-size: cover;
+  text-align:   center;
+
+}
+header h1 {
+  width: 100%;
+  margin: 6 auto;
+  color: #fff
+  
+}
+
+
+
+section {
+  padding: 75px 0;
+  background-color:#efefef;
+}
+.col-1 {
+  width: 45%;
+  margin-right: 5%;
+  float: left;
+}
+.col-2 {
+  width: 45%;
+  margin-left: 5%;
+  float: left;
+}
+.text-wrap {
+  float: left;
+  width: 40%;
+  padding: 2.5%;
+
+margin: 4%;
+  background-color:#;
+}
+
+ .text-wrap p, .text-wrap li {
+  color: #;
+  background-color:#000000;
+}
+.text-wrap h2 {
+  color: #fff
+  ;
+}
+.image-wrap {
+  width: 50%;
+  float: left;
+}
+
+.facts-wrap .text-wrap {
+  margin-right: 0%;
+  margin-left: 5%;
+}
+/*******************
+FOOTER
+********************/
+
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  clear: both;
+  padding-top: 40px;
+  color: #ccc;
+  background-color:#D36135;
+}
+
+.social-icon {
+  width: 20px;
+  height: 20px;
+  margin: 0 5px
+}
+
+/*******************
+home gallery
+********************/
+
+.home-gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.home-gallery li {
+  background-color: #A52222;
+  color: #bdc3c7;
+}
+
+.home-gallery li a p {
+  margin: 0;
+  padding: 5%;
+  font-size: 0.75em;
+  color: #bdc3c7;
+}
+
+/*******************
+menu gallery
+********************/
+
+.menu-gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
